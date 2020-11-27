@@ -1,0 +1,11 @@
+@host = http://localhost:9999
+
+
+GET {{host}}
+
+###
+
+# POST {{host}}/createStudent
+# Content-Type: x-www-form-urlencoded
+
+
