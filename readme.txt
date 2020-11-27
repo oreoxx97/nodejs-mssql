@@ -12,6 +12,8 @@ ref. https://morioh.com/p/59e87ce2399f
 ref. https://nodejs.org/docs/latest/api/http.html#http_request_setheader_name_value
 ref. https://stackoverflow.com/questions/7042340/error-cant-set-headers-after-they-are-sent-to-the-client
 
+//Set .env file
+ref. https://medium.com/the-node-js-collection/making-your-node-js-work-everywhere-with-environment-variables-2da8cdf6e786
 
 
 ********
